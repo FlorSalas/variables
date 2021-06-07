@@ -123,7 +123,7 @@ alert(dias + " dias equivalen a " + segundos + " segundos");
 
 console.log (dias + " dias equivalen a " + segundos + " segundos");
 
-//ejercicio 
+//ejercicio 2
 let kilometros= parseInt(prompt("cuantos kilometros desea recorrer?"));
 let velocidad= parseInt(prompt("a que velocidad desea ir? ingrese el numero en km/h"));
 let kmh= parseInt(kilometros / velocidad);
