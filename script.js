@@ -143,3 +143,5 @@ console.log ("descuento por jubilacion " + jubilacion);
 console.log ("descuento por ley 19032 "+ ley19032);
 console.log ("deducciones totales " + (obraSocial + jubilacion + ley19032));
 console.log ("neto a cobrar " + deducciones);
+
+//fin ejercicios
